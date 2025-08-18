@@ -1,0 +1,74 @@
+{
+  "birthday": {
+    "childName": "Diego Leonardo",
+    "age": 1,
+    "photo": "/assets/images/img_principal.png",
+    "date": "Sábado, 23 de Agosto - Gran Premio de Cumpleaños",
+    "time": "10:00 AM - 2:00 PM",
+    "location": {
+      "name": "Place events",
+      "address": "samanes 6 mz 971 s 9, Guayaquil, Ecuador",
+      "coordinates": {
+        "lat": -2.1101420274476377,
+        "lng": -79.90116697922495
+      },
+      "mapUrl": "https://maps.app.goo.gl/tnwWuNmqAcESMf989"
+    },
+    "rsvp": {
+      "contact": "Diego Vicuña",
+      "phone": "+593982289369",
+      "email": "diegojeanpierre98@gmail.com"
+    },
+    "theme": {
+      "colors": ["#DC2626", "#000000", "#FFFFFF", "#FBBF24", "#10B981"],
+      "primaryColor": "#DC2626"
+    }
+  },
+  "aboutMe": {
+    "title": "Acerca de Diego Leonardo",
+    "description": "Conoce más sobre nuestro pequeño piloto de carreras",
+    "facts": [
+      {
+        "id": 1,
+        "icon": "🏎️",
+        "title": "Mi Pasión",
+        "description": "Me encantan los carros de carreras y hacer ruidos de motor ¡Vroom vroom!"
+      },
+      {
+        "id": 2,
+        "icon": "🍼",
+        "title": "Mi Comida Favorita",
+        "description": "Amo las sopas de mi mamá, en especial si les pone hierbita."
+      },
+      {
+        "id": 3,
+        "icon": "🎵",
+        "title": "Mi Canción Favorita",
+        "description": "Me encantan todas las canciones, pero mi favorita es Juyaya. Amo bailar con mi abuelita."
+      },
+      {
+        "id": 4,
+        "icon": "🧸",
+        "title": "Mi Juguete Favorito",
+        "description": "Tengo muchos juguetes, pero mi favorito es la computadora de mis padres."
+      },
+      {
+        "id": 5,
+        "icon": "👶",
+        "title": "Lo que Más Me Gusta",
+        "description": "Correr por toda la casa explorando cada rincón como un verdadero aventurero"
+      },
+      {
+        "id": 6,
+        "icon": "😊",
+        "title": "Mi Sonrisa",
+        "description": "Siempre estoy sonriendo, especialmente cuando veo a mamá y papá"
+      }
+    ]
+  },
+  "photoGallery": {
+    "driveLink": "https://drive.google.com/drive/folders/1Gnf8lL7QTx20QTh481LP9LxurWlB8O-H?usp=sharing",
+    "description": "¡Sube fotos de la carrera de cumpleaños!",
+    "instructions": "Haz clic en el enlace de arriba para acceder a nuestro álbum de la carrera. Puedes subir fotos y videos de la celebración en el circuito."
+  }
+}
