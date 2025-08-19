@@ -26,6 +26,9 @@ interface InvitationCardProps {
 }
 
 const InvitationCard: React.FC<InvitationCardProps> = ({ data }) => {
+
+    const mainPhoto = `${import.meta.env.BASE_URL}${data.photo}`;
+
   return (
     <div className="min-h-screen flex flex-col items-center justify-center px-6 py-8 relative">
       <div className="text-center space-y-6 max-w-sm mx-auto animate-fadeInUp">

@@ -2,7 +2,7 @@
   "birthday": {
     "childName": "Diego Leonardo",
     "age": 1,
-    "photo": "/assets/images/img_principal.png",
+    "photo": "assets/images/img_principal.png",
     "date": "Sábado, 23 de Agosto - Gran Premio de Cumpleaños",
     "time": "10:00 AM - 2:00 PM",
     "location": {
